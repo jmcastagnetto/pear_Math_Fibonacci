@@ -2,11 +2,11 @@
 <!DOCTYPE package SYSTEM "../package.dtd">
 <!-- do not use the "Type" attribute here, that one is only for
      generated package.xml files -->
-<!-- $Id: package.xml,v 1.1 2003-01-02 01:56:59 jmcastagnetto Exp $ -->
+<!-- $Id: package.xml,v 1.2 2003-01-02 10:05:50 jmcastagnetto Exp $ -->
 <package>
 
   <name>Math_Fibonacci</name>
-  <summary>Package to calculat and manipulate Fibonacci numbers</summary>
+  <summary>Package to calculate and manipulate Fibonacci numbers</summary>
   <description>
    The Fibonacci series is constructed using the formula:
          F(n) = F(n - 1) + F (n - 2),
